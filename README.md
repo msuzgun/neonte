@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neonte
-- 👀 I’m interested in PHP, C++, JAVA 
-- 🌱 I’m currently learning C# .NET
+- 👀 I’m interested in PHP, C++, Pyhthon 
+- 🌱 I’m currently learning C# .NET Flutter
 - 📫 How to reach me msuzgun@gmail.com  
 
 <!---
